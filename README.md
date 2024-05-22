@@ -4,7 +4,8 @@
 
 There are three public state variables.
 
-- tokenName (string) - tokenAbbrv (string)
+- tokenName (string)
+- tokenAbbrv (string)
 - totalSupply (uint) [as totalSupply will always be 0 or more]
 
 ```Solidity
